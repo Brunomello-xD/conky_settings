@@ -15,12 +15,11 @@ Informações úteis
 **MEMÓRIA RAM**
 * **RAM** - `Memória usada / Total de memória`
 
-**PROCESSADOR**
-* **CPU** - `Uso total`
-
 **MEMÓRIA VIRTUAL**
 * **SWAP** - `Memória em uso / Total de memória`
 
+**PROCESSADOR**
+* **CPU** - `Uso total`
 
 Conheça o Conky
 =================
