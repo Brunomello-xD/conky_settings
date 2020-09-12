@@ -5,6 +5,23 @@
   <img src="img/conkyImg.png">
 </p>
 
+Informações úteis
+=================
+**SSD**
+`*No meu caso estou usando um SSD e por isso idêntifiquei como SSD mas você pode alterar e coloca HD`
+* **SSD / (raiz)** - `Memória livre / Total de memória`  
+* **SSD /home (home)** - `Memória livre / Total de memória`
+
+**MEMÓRIA RAM**
+* **RAM** - `Memória usada / Total de memória`
+
+**PROCESSADOR**
+* **CPU** - `Uso total`
+
+**MEMÓRIA VIRTUAL**
+* **SWAP** - `Memória em uso / Total de memória`
+
+
 Conheça o Conky
 =================
 
