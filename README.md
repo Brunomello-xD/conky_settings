@@ -1,5 +1,5 @@
 <h1 align="center">Conky :tv:</h1>
-<p align="center">Pequenas modificações feitas para meu uso pessoal em meu Desktop.<br/>Obs: O projeto não foi criado por mim, para conhecer o projeto procure por "Conheça o Conky".</p>
+<p align="center">Pequenas modificações feitas para meu uso pessoal em meu Desktop.<br/>Obs: O projeto não foi criado por mim, para conhecer o projeto procure por <a href="https://github.com/Brunomello-xD/conky_settings#conhe%C3%A7a-o-conky">"Conheça o Conky".</p></a>
 
 <p align="center">
   <img src="img/conkyImg.png">
