@@ -1,6 +1,5 @@
 <h1 align="center">Conky :tv:</h1><br/>
-<p align="center">Pequenas modificações feitas para meu uso pessoal em meu Desktop.</p>
-<p align="center">Obs: O projeto não foi criado por mim para conhecer o projeto desça a página até "Conheça o Conky".</p>
+<p align="center">Pequenas modificações feitas para meu uso pessoal em meu Desktop.<br/>Obs: O projeto não foi criado por mim para conhecer o projeto desça a página até "Conheça o Conky".</p>
 
 <p align="center">
   <img src="img/conkyImg.png">
