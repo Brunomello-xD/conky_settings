@@ -7,7 +7,7 @@
 
 Informações úteis
 =================
-**SSD**
+**SSD**<br/>
 `*No meu caso estou usando um SSD e por isso idêntifiquei como SSD mas você pode alterar e coloca HD`
 * **SSD / (raiz)** - `Memória livre / Total de memória`  
 * **SSD /home (home)** - `Memória livre / Total de memória`
