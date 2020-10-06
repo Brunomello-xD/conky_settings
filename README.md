@@ -9,11 +9,11 @@ Informações úteis
 =================
 
 **SSD**
-* **SSD / (raiz)** - `Memória livre / Total de memória`  
-* **SSD /home (home)** - `Memória livre / Total de memória`
+* **SSD / (raiz)** - `Espaço livre / Total espaço`  
+* **SSD /home (home)** - `Espaço livre / Total espaço`
 
 **MEMÓRIA RAM**
-* **RAM** - `Memória usada / Total de memória`
+* **RAM** - `Memória em uso / Total de memória`
 
 **MEMÓRIA VIRTUAL**
 * **SWAP** - `Memória em uso / Total de memória`
@@ -32,5 +32,5 @@ License
 
 Conky is licensed under the terms of the <a href="https://github.com/brndnmtthws/conky/blob/master/LICENSE">GPLv3</a> license.
 
-Feito com :heart:	 por [Bruno Mello](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile) :eyes:	
+Feito com :heart:	 por [Bruno Mello.](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile)	
 
