@@ -2,8 +2,8 @@
 <p align="center">Pequenas modificações feitas para meu uso pessoal em meu Desktop.<br/>Obs: O projeto não foi criado por mim, para conhecer o projeto procure por <a href="https://github.com/Brunomello-xD/conky_settings#conhe%C3%A7a-o-conky">"Conheça o Conky".</p></a>
 
 <p align="center">
-  <img src="img/conkyImg_01.png">
-  <img src="img/conkyImg_02.png">
+  <img src="img/conky_01.png"> 
+  <img src="img/conky_02.png">
 </p>
 
 Informações úteis
@@ -33,5 +33,5 @@ Licença
 
 Conky é licenciado sob os termos da licença <a href="https://github.com/brndnmtthws/conky/blob/master/LICENSE">GPLv3.</a>
 
-Feito com :heart:	 por [Bruno Mello.](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile)	:eyes:
+Feito com :purple_heart:	 por [Bruno Mello.](https://www.linkedin.com/in/bruno-mello-14058819b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BIBMlTz6fSoaFIdcA5Dyn0Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-nav.settings_view_profile)	:eyes:
 
